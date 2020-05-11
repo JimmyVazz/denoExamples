@@ -1,2 +1,2 @@
 .vscode
-lib.deno.ts
+lib.deno.d.ts
